@@ -1,0 +1,78 @@
+body{
+    background-image: url("background.jpg") ;
+    background-size: cover;
+}
+
+.container{
+    width: 800px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 50px;
+    background-color:rgba(0, 0, 0, 0.6);
+    border-radius: 30px;
+    height: 550px;
+}
+
+.logo{
+   width: 200px;
+   font-size: 20px;
+   
+}
+
+.titolo{
+    color:#00dd00;
+    font-size: 25px;
+}
+
+.tastiera{
+    background-color:#00dd00;
+    border-width: 0;
+    width: 800px;
+    padding: 10px;
+   
+}
+
+#scelta-monopattino{
+    text-align: left;
+    margin: 10px;
+
+}
+
+.nome-monopattino{
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+    
+}
+
+.via{
+    color: white;
+    margin: 0;
+    
+}
+
+.luogo{
+    display: block;
+}
+
+
+.barra-caricamento1{
+    background-color: orange;
+    width: 250px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.barra-caricamento2{
+    background-color: #00dd00;
+    width: 450px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.barra-caricamento3{
+    background-color:#be4141;
+    width: 100px;
+    padding: 10px;
+    border-radius: 4px;
+}
